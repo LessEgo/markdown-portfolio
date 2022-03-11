@@ -1,1 +1,1 @@
-https://github.com/LessEgo/github-slideshow
+[text](https://example.com)
