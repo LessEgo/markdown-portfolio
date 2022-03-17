@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Cars 🚙
+Foodie
+Fashion 
+Movies
+Technology 
+Outdoors
+Stance 
